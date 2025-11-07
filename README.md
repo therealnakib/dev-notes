@@ -36,7 +36,7 @@ for i in range(5):
 
 ---
 
-## 4. Functions
+## 4. Functions :D
 Functions organize code into reusable blocks.
 
 ```python
