@@ -4,7 +4,7 @@ A personal collection of developer notes and Python code snippets.
 
 ---
 
-## 1. Variables in Python
+## 1. Variables in Python 🚀
 Variables are used to store data values.
 
 ```python
